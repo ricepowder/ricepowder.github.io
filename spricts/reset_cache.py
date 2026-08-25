@@ -1,7 +1,7 @@
 import re
 from pathlib import Path
 
-path = Path(r"./index.html")
+path = Path(r"../index.html")
 
 text: str = path.read_text(encoding="utf-8")
 
