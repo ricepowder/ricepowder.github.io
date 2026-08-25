@@ -1,6 +1,9 @@
 body {
-    background: #CCCCAA;
-    color: #333333;
+    background: #CCB;
+    color: #333;
+}
+a {
+    color: #324;
 }
 p {
     font-size: 17px;
